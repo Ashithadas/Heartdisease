@@ -1,1 +1,2 @@
 # Heartdisease
+Heart disease is a common disease specially for aged people. There are some certain factors which cause angiographic disease. There are two csv files  (training and test). As we all know, data prepocessing, cleaning, feature selection and aggregation is very crucial to design a perfect model. Thus, We will try to do data preprocessing step by step and then Logistic Model will be used to train the dataset. Afterthat, as test dataset does not have class label, I will fit the test into training dataset and put a label whether they have heart disease or not
